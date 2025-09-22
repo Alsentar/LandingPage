@@ -1,0 +1,126 @@
+.SlideOne {
+    background-color: rgb(48, 58, 102);
+    color:azure;
+}
+
+.Headers {
+
+    display:flex;
+    justify-content:space-evenly;
+
+}
+
+
+.headerlinks {
+    display:flex;
+    justify-content:space-between;
+    
+}
+
+.SlideOneContent {
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    padding:200px;
+}
+
+.botonuno {
+    background-color: rgb(64, 158, 221);
+}
+
+.tashaone {
+    height:200px;
+    width:400px;
+}
+
+.SlideOneSubcontent {
+    width:400px;
+}
+
+
+.titular {
+    display:flex;
+    justify-content:center;
+}
+
+.SlideTwoContent {
+
+    display:flex;
+    justify-content:space-evenly;
+    
+    padding:100px;
+    
+
+}
+
+.SlideTwo {
+    
+    background-color: aquamarine;
+
+}
+
+.Picwithtext {
+    height:200px;
+    width:140px;
+    
+}
+
+.rando {
+    height:140px;
+    width:140px;
+}
+
+.SlideThree {
+    background-color: rgb(229, 231, 235);
+    display:flex;
+    justify-content: center;
+    padding:100px;
+    font-size: 36px;
+    
+
+
+}
+
+.sosaysthor {
+    display:flex;
+    justify-content: flex-end;
+}
+
+.Odinsonsays {
+
+    Width:800px;
+}
+
+.SlideFour {
+    
+    padding:100px;
+    padding-right: 300px;
+    padding-left: 300px;
+}
+
+.SlideFourContent {
+    
+    height: 100px;
+    background-color: #3382F6;
+    color: #F9FAF8;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.SlideFourSubcontent {
+
+    height:100px;
+
+}
+
+.botondos {
+    height:30px;
+    width:90px;
+}
+
+.seriously {
+    font-size: 20px;
+}
+
+
